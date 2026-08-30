@@ -2,8 +2,6 @@
 
 > Generate new text and creative words by learning statistical patterns from an existing text corpus.
 
-**Prodigy InfoTech — Machine Learning Internship — Task 03**
-
 ---
 
 ## 📌 Overview
