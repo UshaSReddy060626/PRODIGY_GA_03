@@ -403,29 +403,6 @@ markov-text-generator/
 
 ---
 
-# ⚙️ Installation
-
-No external machine learning libraries are required.
-
-The core implementation uses only the **Python Standard Library**.
-
-## 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/<your-username>/markov-text-generator.git
-cd markov-text-generator
-```
-
-## 2️⃣ Install Testing Dependencies
-
-If you want to run the test suite using `pytest`:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
 # 🚀 Usage
 
 ## 1️⃣ Command-Line Interface
@@ -829,6 +806,6 @@ Although Markov chains are much simpler than modern language models, they provid
 
 # 👩‍💻 Author
 
-**Usha S. Reddy**
+**Usha.S.Reddy**
 
 If you found this project useful, consider giving the repository a ⭐.
